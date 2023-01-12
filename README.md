@@ -1,6 +1,6 @@
 # gulp-webp-html-nosvg
 
-This is a modified version of the plugin [gulp-webp-html](https://www.npmjs.com/package/gulp-webp-html). Here was fixed thebug that added two dots before webp to the final html file. No SVG format.
+This is a modified version of the plugin [gulp-webp-html](https://www.npmjs.com/package/gulp-webp-html). Here was fixed thebug that added two dots before webp to the final html file. No SVG format. Updated deprecated package
 
 ## Example
 ```html
